@@ -3,7 +3,7 @@ import { Card, CardHeader, CardTitle, CardContent } from "@/components/ui/card"
 export default function EmpresaPage() {
   return (
     <div className="container mx-auto px-4 py-8">
-      <h1 className="text-3xl font-bold mb-6">Sobre CleanConnect</h1>
+      <h1 className="text-3xl font-bold mb-6">Sobre Limpify</h1>
       <div className="grid md:grid-cols-2 gap-6">
         <Card>
           <CardHeader>

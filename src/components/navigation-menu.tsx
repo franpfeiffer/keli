@@ -11,7 +11,7 @@ export function NavigationMenu() {
         <div className="flex h-16 items-center justify-between">
           <div className="flex items-center space-x-8">
             <Link href="/" className="text-2xl font-bold">
-              Keli
+              Limpify
             </Link>
             <div className="hidden md:flex space-x-6">
               <Link href="/solicitar" className="hover:text-gray-300">

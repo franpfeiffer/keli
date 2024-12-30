@@ -5,7 +5,7 @@ import { NavigationMenu } from '@/components/navigation-menu'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
-  title: 'Keli',
+  title: 'Limpify',
   description: 'Servicios de limpieza a domicilio',
 }
 

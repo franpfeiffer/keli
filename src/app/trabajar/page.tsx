@@ -8,7 +8,7 @@ export default function TrabajarPage() {
       <div className="grid md:grid-cols-2 gap-6">
         <Card>
           <CardHeader>
-            <CardTitle>¿Por qué trabajar en Keli?</CardTitle>
+            <CardTitle>¿Por qué trabajar en Limpify?</CardTitle>
             <CardDescription>Descubre las ventajas de unirte a nuestro equipo</CardDescription>
           </CardHeader>
           <CardContent>
